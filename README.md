@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![mlutegar](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)](https://github.com/seu_nome_de_usuário)
+
+
 <!--
 **mlutegar/mlutegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
