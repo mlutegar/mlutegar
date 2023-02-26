@@ -1,19 +1,13 @@
-### Hi there 👋
+### Sobre mim
+
+👨‍🎓 Estudante de Engenharia da Computação no IBMEC e técnico de informática pelo SENAC.
+
+🚀 Já trabalhei com PHP, Java, JavaScript, Python, Docker, MySQL, Xampp, HTML e CSS e busco me aprofundar cada vez mais nessa área.
+
+💼 Atualmente trabalho com análise de dados na Editora Globo.
+
+📧 Para entrar em contato, envie um email para mlutegar@hotmail.com.
+
+
 
 [![mlutegar](https://github-readme-stats.vercel.app/api?username=mlutegar&show_icons=true&theme=radical)](https://github.com/mlutegar)
-
-
-<!--
-**mlutegar/mlutegar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
