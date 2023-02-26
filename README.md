@@ -2,7 +2,7 @@
 
 👨‍🎓 Estudante de Engenharia da Computação no IBMEC e técnico de informática pelo SENAC.
 
-🚀 Já trabalhei com PHP, Java, JavaScript, Python, Docker, MySQL, Xampp, HTML e CSS e busco me aprofundar cada vez mais nessa área.
+🚀 Tenho experiência em PHP, Java, JavaScript, Python, Docker, MySQL, Xampp, HTML e CSS e estou sempre buscando aprender mais.
 
 💼 Atualmente trabalho com análise de dados na Editora Globo.
 
