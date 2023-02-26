@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![mlutegar](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuário&show_icons=true&theme=radical)](https://github.com/seu_nome_de_usuário)
+[![mlutegar](https://github-readme-stats.vercel.app/api?username=mlutegar&show_icons=true&theme=radical)](https://github.com/mlutegar)
 
 
 <!--
