@@ -4,7 +4,7 @@
 
 🚀 Tenho experiência em PHP, Java, JavaScript, Python, Docker, MySQL, Xampp, HTML e CSS e estou sempre buscando aprender mais.
 
-💼 Atualmente trabalho com análise de dados na Editora Globo.
+💼 Atualmente estou estagiando com análise de dados na Editora Globo.
 
 📧 Para entrar em contato, envie um email para mlutegar@hotmail.com.
 
