@@ -1,6 +1,6 @@
 ### Sobre mim
 
-👨‍🎓 Estudante de Engenharia da Computação no IBMEC e técnico de informática pelo SENAC.
+👨‍🎓 Estudante de Engenharia da Computação no IBMEC e cursando técnico de informática pelo SENAC.
 
 🚀 Tenho experiência em PHP, Java, JavaScript, Python, Docker, MySQL, Xampp, HTML e CSS e estou sempre buscando aprender mais.
 
