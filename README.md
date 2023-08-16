@@ -2,9 +2,9 @@
 
 👨‍🎓 Estudante de Engenharia da Computação no IBMEC e cursando técnico de informática pelo SENAC.
 
-🚀 Tenho projetos em PHP, Java, JavaScript, Python, Docker, MySQL, Xampp, HTML e CSS e estou sempre buscando aprender mais.
+🚀 Tenho projetos em PHP, Java, JavaScript, Python, Golang, HTML e CSS e estou sempre buscando aprender mais.
 
-💼 Atualmente estou estagiando com análise de dados na Editora Globo.
+💼 Atualmente estou trabalhando como assistente de laboratório de informática.
 
 📧 Para entrar em contato, envie um email para mlutegar@hotmail.com.
 
