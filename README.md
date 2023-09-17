@@ -8,6 +8,7 @@
 
 📧 Para entrar em contato, envie um email para mlutegar@hotmail.com.
 
-
-
-[![mlutegar](https://github-readme-stats.vercel.app/api?username=mlutegar&show_icons=true&theme=radical)](https://github.com/mlutegar)
+<div>
+<a href="https://github.com/mlutegari">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mlutegar&layout=compact&langs_count=7&theme=dracula"/>
+</div>
